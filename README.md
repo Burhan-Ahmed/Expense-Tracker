@@ -1,5 +1,5 @@
-# Little Lemon
-Simple Expense Tracker
+# Simple Expense Tracker
+Another React Project, just for Practice
 ## Tool
 VS Code
 ## Languages
