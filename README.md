@@ -1,4 +1,4 @@
-# Simple Expense Tracker
+# Expense Tracker
 Another React Project, just for Practice
 ## Tool
 VS Code
